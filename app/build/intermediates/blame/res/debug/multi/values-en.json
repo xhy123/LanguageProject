@@ -1,0 +1,235 @@
+[
+    {
+        "outputFile": "D:\\download\\MyDownloads\\LanguageProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "D:\\download\\MyDownloads\\LanguageProject\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 52,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 52,
+                    "endOffset": 156
+                },
+                "from": {
+                    "file": "D:\\download\\MyDownloads\\LanguageProject\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 52,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 161,
+                    "endColumn": 39,
+                    "endOffset": 196
+                },
+                "from": {
+                    "file": "D:\\download\\MyDownloads\\LanguageProject\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 525,
+                        "endColumn": 36,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 201,
+                    "endColumn": 37,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "D:\\download\\MyDownloads\\LanguageProject\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 490,
+                        "endColumn": 34,
+                        "endOffset": 523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endColumn": 47,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "D:\\download\\MyDownloads\\LanguageProject\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 217,
+                        "endColumn": 44,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 47,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "D:\\download\\MyDownloads\\LanguageProject\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 262,
+                        "endColumn": 44,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 37,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "D:\\download\\MyDownloads\\LanguageProject\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 379,
+                        "endColumn": 34,
+                        "endOffset": 412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endColumn": 39,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "D:\\download\\MyDownloads\\LanguageProject\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 414,
+                        "endColumn": 36,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 52,
+                    "endOffset": 461
+                },
+                "from": {
+                    "file": "D:\\download\\MyDownloads\\LanguageProject\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 52,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 466,
+                    "endColumn": 41,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "D:\\download\\MyDownloads\\LanguageProject\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 451,
+                        "endColumn": 38,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 508,
+                    "endColumn": 35,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "D:\\download\\MyDownloads\\LanguageProject\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 346,
+                        "endColumn": 32,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 41,
+                    "endOffset": 581
+                },
+                "from": {
+                    "file": "D:\\download\\MyDownloads\\LanguageProject\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 307,
+                        "endColumn": 38,
+                        "endOffset": 344
+                    }
+                }
+            }
+        ]
+    }
+]

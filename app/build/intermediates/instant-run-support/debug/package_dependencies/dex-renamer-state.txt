@@ -1,0 +1,4 @@
+#Tue Jun 12 09:16:52 CST 2018
+base.0=D\:\\download\\MyDownloads\\LanguageProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_4b5a6ed7e9e22e88e5c55e2e8f15ad0f8f4e50c4
+renamed.0=classes.dex
+file.0=D\:\\download\\MyDownloads\\LanguageProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_4b5a6ed7e9e22e88e5c55e2e8f15ad0f8f4e50c4\\classes.dex

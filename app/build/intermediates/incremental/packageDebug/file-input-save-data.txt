@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Tue Jun 12 09:16:53 CST 2018
+2.base=D\:\\download\\MyDownloads\\LanguageProject\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\download\\MyDownloads\\LanguageProject\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\download\\MyDownloads\\LanguageProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_559cdcfce3e8bf5f1e204ae67e143c7f3769d457
+6.file=D\:\\download\\MyDownloads\\LanguageProject\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=D\:\\download\\MyDownloads\\LanguageProject\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\download\\MyDownloads\\LanguageProject\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=D\:\\download\\MyDownloads\\LanguageProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e0dce9551a14ffd01d7e17fd05ca9396de26f056\\classes.dex
+5.base=D\:\\download\\MyDownloads\\LanguageProject\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=D\:\\download\\MyDownloads\\LanguageProject\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\download\\MyDownloads\\LanguageProject\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=D\:\\download\\MyDownloads\\LanguageProject\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\download\\MyDownloads\\LanguageProject\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=D\:\\download\\MyDownloads\\LanguageProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e0dce9551a14ffd01d7e17fd05ca9396de26f056
+3.file=D\:\\download\\MyDownloads\\LanguageProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_559cdcfce3e8bf5f1e204ae67e143c7f3769d457\\classes.dex
+3.set=DEX
+1.base=D\:\\download\\MyDownloads\\LanguageProject\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\download\\MyDownloads\\LanguageProject\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+0.set=DEX

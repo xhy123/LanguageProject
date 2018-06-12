@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">设置</string>
+    <string name="app_name">语言设置</string>
+    <string name="black">黑色</string>
+    <string name="blue">蓝色</string>
+    <string name="chinese_btn">中文</string>
+    <string name="english_btn">英文</string>
+    <string name="gray">灰色</string>
+    <string name="green">绿色</string>
+    <string name="hello_world">嗨 世界</string>
+    <string name="orange">橙色</string>
+    <string name="red">红色</string>
+    <string name="yellow">黄色</string>
+</resources>

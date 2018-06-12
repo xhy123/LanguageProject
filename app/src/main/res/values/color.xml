@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark">#000000</color>
+    <color name="darkGray">#848484</color>
+    <color name="titlecolor">#669999</color>
+    <color name="yellow">#ffffff00</color>
+    <!-- 设置 -->
+    <color name="media_controller_text_color">#FFFFFF</color>
+    <color name="window_bg">#fff0f3f6</color>
+    <color name="transparent">#00000000</color>
+    <color name="chat_title_name">#ffffffff</color>
+    <color name="traffic_bg">#ffecf0f1</color>
+    <color name="traffic_txt">#ff414141</color>
+    <color name="traffic_data">#ff666666</color>
+    <color name="black">#000000</color><!--黑色 -->  
+    <color name="blue">#33b5e5</color>
+    <color name="almostBlack">#424242</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00CC00</color>
+    <color name="groupclick">#9fdeeb</color>
+    <color name="groupnormal">#e8e8e8</color>
+    <color name="childsel">#f4f4f4</color>
+    <color name="common_backgrounGray">#ff313131</color>
+    <color name="Orange">#FF9900</color>
+    <color name="linest_top_bg">#f0f0f0</color>
+    <color name="autumn">#EBC79E</color>
+    <!-- 起始页 -->
+    <color name="start_listitem_divide">#ffd4d3d3</color>
+    
+    <color name="radiobg_press">#43859d</color>
+    <color name="radiobg_normal">#555555</color>
+    
+    <!-- 离线地图 -->
+    <color name="poilistpress">#ffd9d9d9</color>
+    <color name="poilistdef">#fff1f1f1</color>
+
+    <!-- 天气 -->
+    <color name="gold">#FFD700</color>
+    <color name="lightgoldenrodyellow">#FAFAD2</color>
+    <color name="darkgoldenrod">#B8860B</color>
+    <color name="snow">#FFFAFA</color>
+    <!-- 主应用程序 -->
+    <color name="title_icon">#ff000000</color>
+    <color name="text_minor">#ff666666</color>
+    <color name="application_backcolor">#fff6eade</color>
+    <color name="login_font">#3D3E40</color>
+
+    <!-- 日历 -->
+    <color name="calendar_background">#000000</color>
+    <color name="recordremind_background">#FFFFFF</color>
+    <color name="border_color">#FFFFFF</color>
+    <color name="weekname_color">#FFFFFF</color>
+    <color name="day_color">#FFFFFF</color>
+    <color name="inner_grid_color">#FFFFFF</color>
+    <color name="prev_next_month_day_color">#999999</color>
+    <color name="text_color">#FFFF00</color>
+    <color name="recordremindtext_color">#000000</color>
+    <color name="current_day_color">#FF0000</color>
+    <color name="today_background_color">#FF0000</color>
+    <color name="today_color">#FFFFFF</color>
+    <color name="sunday_saturday_color">#FF0000</color>
+    <color name="sunday_saturday_prev_next_month_day_color">#990000</color>
+    <color name="bgcolor">#ffffff</color>
+    <color name="txtcolor">#000000</color>
+    <color name="Calendar_WeekBgColor">#EFE7DE</color>
+    <color name="Calendar_WeekFontColor">#8C8A8C</color>
+    <color name="Calendar_DayBgColor">#F7F7F7</color>
+    <color name="isHoliday_BgColor">#FF0000</color>
+    <color name="unPresentMonth_FontColor">#8C8A8C</color>
+    <color name="isPresentMonth_FontColor">#000000</color>
+    <color name="isToday_BgColor">#EBDCC1</color>
+    <color name="specialReminder">#FF0000</color>
+    <color name="commonReminder">#BDBAB5</color>
+    <color name="translucent_dark">#99000000</color>
+</resources>
